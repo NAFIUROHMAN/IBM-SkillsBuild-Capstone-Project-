@@ -39,8 +39,7 @@ Langkah-langkah yang dilakukan dalam proyek ini:
 
 3. **Modeling**
 
-   * Menggunakan algoritma machine learning (mis. Random Forest, SVM, atau Neural Network).
-   * Evaluasi dengan metrik akurasi, precision, recall, F1-score.
+   * Menggunakan algoritma machine learning
 
 4. **Deployment**
 
